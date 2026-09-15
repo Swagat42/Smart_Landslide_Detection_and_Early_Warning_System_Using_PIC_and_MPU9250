@@ -1,0 +1,2 @@
+# Smart_Landslide_Detection_and_Early_Warning_System_Using_PIC_and_MPU9250
+Real-time embedded landslide risk monitoring using soil moisture and MPU9250 sensors.
